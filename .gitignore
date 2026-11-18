@@ -1,0 +1,7 @@
+.env
+qrs/*
+!qrs/.htaccess
+!qrs/seed_qr_1.png
+!qrs/seed_qr_2.png
+.DS_Store
+Thumbs.db
